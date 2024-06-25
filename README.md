@@ -1,3 +1,4 @@
+![task1](https://github.com/murageshnad/TASK-Management-MERN-Backend/assets/42669128/b1aac343-e0c0-4b2a-8383-dd3b4658b7b5)
 # Task Management MERN Stack Application
 
 This is a full-stack task management application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application allows users to create, read, update, and delete (CRUD) tasks, manage user accounts, and filter tasks by user or date.
