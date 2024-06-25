@@ -35,8 +35,7 @@ This is a full-stack task management application built using the MERN (MongoDB, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/task-management.git
-    cd task-management
+    git clone https://github.com/murageshnad/TASK-Management-MERN.git
     ```
 
 2. Set up the backend:
@@ -62,7 +61,7 @@ This is a full-stack task management application built using the MERN (MongoDB, 
 5. Set up the frontend:
 
     ```bash
-    cd ../frontend
+    cd frontend
     npm install
     ```
 
