@@ -136,6 +136,8 @@ task-management/
 │ ├── package.json
 │ └── ...
 └── README.md
+![tasks](https://github.com/murageshnad/TASK-Management-MERN-Backend/assets/42669128/f544baee-2238-43d9-a529-14aa57fc9c3b)
+
+![image](https://github.com/murageshnad/TASK-Management-MERN-Backend/assets/42669128/b012e618-4139-44ce-9a73-c7d67a00acca)
 
 
-![task1](https://github.com/murageshnad/TASK-Management-MERN-Backend/assets/42669128/b1aac343-e0c0-4b2a-8383-dd3b4658b7b5)
